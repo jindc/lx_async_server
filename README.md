@@ -21,4 +21,5 @@ usage:lxmt [-h] [--port] [--home] [--thread_num] [--daemon]
 
 --thread_num 启动的独立线程数，默认与cpu数相同
 
-
+作者：德才
+email: jindc@163.com
